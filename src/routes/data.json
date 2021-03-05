@@ -1,0 +1,40 @@
+[
+    {
+        "PublicidadID":"1",
+        "title":"Didi Food",
+        "clicks": "405",
+        "exits":"890",
+        "views": "360",
+        "followed": "373",
+        "date":"2020"
+    },
+
+    {
+        "PublicidadID":"2",
+        "title":"Mandalorian",
+        "clicks": "498",
+        "exits":"260",
+        "views": "596",
+        "followed": "153",    
+        "date":"2020"    
+    },
+
+    {
+        "PublicidadID":"3",
+        "title":"WandaVision",
+        "clicks": "758",
+        "exits":"521",
+        "views": "1234",
+        "followed": "659",    
+        "date":"2021"    
+    },
+    {
+        "PublicidadID":"4",
+        "title":"InDriver",
+        "clicks": "198",
+        "exits":"596",
+        "views": "754",
+        "followed": "165",    
+        "date":"2021"    
+    }
+]

@@ -5,13 +5,14 @@ const morgan = require('morgan');
 
 //Configuraciones
 app.set('port', 3000);
+app.set('json spaces', 2);
 
 //Middlewares
 app.use(morgan('dev'));
 app.use(express.json());
 
 //Rutas
-app.use(require('./routes/rutas'));
+app.use('/API',require('./routes/rutas'));
 
 
 //Empezando server

@@ -17,4 +17,4 @@ app.use('/API',require('./routes/rutas'));
 
 //Empezando server
 app.listen(app.get('port'));
-console.log("Servidor #1");
+console.log("Servidor de API #1");

@@ -1,40 +1,154 @@
 [
     {
-        "PublicidadID":"1",
-        "title":"Didi Food",
-        "clicks": "405",
-        "exits":"890",
-        "views": "360",
-        "followed": "373",
-        "date":"2020"
+        "id":"1",
+        "bebida":"Mai Tai",
+        "temporada": "Recomendados",
+        "img":"maitai.png"
+    },
+    {
+        "id":"2",
+        "bebida":"Gin Tonic",
+        "temporada": "Recomendados",
+        "img":"gintonic.png"
+    },
+    {
+        "id":"3",
+        "bebida":"Paloma",
+        "temporada": "Recomendados",
+        "img":"paloma.png"
+    },
+    {
+        "id":"4",
+        "bebida":"Passion Daikiri",
+        "temporada": "Recomendados",
+        "img":"passiondaikiri.png"
+    },
+    {
+        "id":"5",
+        "bebida":"Negroni",
+        "temporada": "Recomendados",
+        "img":"negroni.png"
+    },
+    {
+        "id":"6",
+        "bebida":"cynar Buck",
+        "temporada": "Recomendados",
+        "img":"cynarbuck.png"
+    },
+    {
+        "id":"7",
+        "bebida":"Italian Buck",
+        "temporada": "Recomendados",
+        "img":"italianbuck.png"
+    },
+    {
+        "id":"8",
+        "bebida":"Negroni and the Goat",
+        "temporada": "Recomendados",
+        "img":"negronigoat.png"
     },
 
-    {
-        "PublicidadID":"2",
-        "title":"Mandalorian",
-        "clicks": "498",
-        "exits":"260",
-        "views": "596",
-        "followed": "153",    
-        "date":"2020"    
-    },
 
     {
-        "PublicidadID":"3",
-        "title":"WandaVision",
-        "clicks": "758",
-        "exits":"521",
-        "views": "1234",
-        "followed": "659",    
-        "date":"2021"    
+        "id":"9",
+        "bebida":"Sidecar",
+        "temporada": "Primavera",
+        "img":"sidecar.png"
     },
     {
-        "PublicidadID":"4",
-        "title":"InDriver",
-        "clicks": "198",
-        "exits":"596",
-        "views": "754",
-        "followed": "165",    
-        "date":"2021"    
+        "id":"10",
+        "bebida":"Yellow Bird",
+        "temporada": "Primavera",
+        "img":"yellowbird.png"
+    },
+    {
+        "id":"11",
+        "bebida":"Galliano Mist",
+        "temporada": "Primavera",
+        "img":"gallianomist.png"
+    },
+    {
+        "id":"12",
+        "bebida":"Aquavit Hiball",
+        "temporada": "Primavera",
+        "img":"aquavithiball.png"
+    },
+
+
+    {
+        "id":"13",
+        "bebida":"Barcelona Fizz",
+        "temporada": "Verano",
+        "img":"barcelonafizz.pmg"
+    },
+    {
+        "id":"14",
+        "bebida":"Jack Rose",
+        "temporada": "Verano",
+        "img":"jackrose.png"
+    },
+    {
+        "id":"15",
+        "bebida":"Enzoni",
+        "temporada": "Verano",
+        "img":"enzoni.png"
+    },
+    {
+        "id":"16",
+        "bebida":"Americano in Benevento",
+        "temporada": "Verano",
+        "img":"americanobenevento.png"
+    },
+
+
+    {
+        "id":"17",
+        "bebida":"Celebration",
+        "temporada": "Otoño",
+        "img":"celebration.png"
+    },
+    {
+        "id":"18",
+        "bebida":"Marconi",
+        "temporada": "Otoño",
+        "img":"marconi.png"
+    },
+    {
+        "id":"19",
+        "bebida":"À la Louisiane",
+        "temporada": "Otoño",
+        "img":"lou.png"
+    },
+    {
+        "id":"20",
+        "bebida":"Norwegian Sunset",
+        "temporada": "Otoño",
+        "img":"norsunset.png"
+    },
+
+
+    {
+        "id":"21",
+        "bebida":"Golden Cadillac",
+        "temporada": "Invierno",
+        "img":"goldencadillac.png"
+    },
+    {
+        "id":"22",
+        "bebida":"Coffee Alexander",
+        "temporada": "Invierno",
+        "img":"alexander.png"
+    },
+    {
+        "id":"23",
+        "bebida":"Camel Juice",
+        "temporada": "Invierno",
+        "img":"cameljuice.png"
+    },
+    {
+        "id":"24",
+        "bebida":"Topper Dessert Cocktail",
+        "temporada": "Invierno",
+        "img":"topperdessert.png"
     }
 ]

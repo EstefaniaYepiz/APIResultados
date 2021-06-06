@@ -1,0 +1,31 @@
+###
+
+GET http://localhost:3000/api/bebidas
+
+###
+POST http://localhost:3000/api/bebidas
+Content-Type: application/json 
+
+{
+        "bebida":"Mai Tai",
+        "temporada": "Recomendados",
+        "receta":"1 oz light rum (3 cl) \n 1 oz dark rum (3 cl) \n 1½ oz fresh lime juice (4.5 cl) \n ½ oz orange curacao (1.5 cl) \n ¼ oz grenadine (6 dashes) \n ½ oz orgeat syrup (1.5 cl) \n ¼ oz falernum (6 dashes) \n Fill with crushed ice \n Add fruit garnish \n Serve in a double rocks glass (12.0 oz)",
+        "img":"maitai.png"
+}
+
+###
+DELETE http://localhost:3000/api/bebidas/60bbff4bebc58a64f01c188a
+
+###
+GET http://localhost:3000/api/bebidas/60bbd03ac15175616ca31d2d
+
+###
+PUT http://localhost:3000/api/bebidas/60bbd03ac15175616ca31d2d
+Content-Type: application/json 
+
+{
+        "bebida":"Mai Tai",
+        "temporada": "Recomendados",
+        "receta":"1 oz light rum (3 cl) \n 1 oz dark rum (3 cl) \n 1½ oz fresh lime juice (4.5 cl) \n ½ oz orange curacao (1.5 cl) \n ¼ oz grenadine (6 dashes) \n ½ oz orgeat syrup (1.5 cl) \n ¼ oz falernum (6 dashes) \n Fill with crushed ice \n Add fruit garnish \n Serve in a double rocks glass (12.0 oz)",
+        "img":"maitai.png"
+}

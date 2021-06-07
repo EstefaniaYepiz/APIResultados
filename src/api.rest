@@ -7,10 +7,10 @@ POST http://localhost:3000/api/bebidas
 Content-Type: application/json 
 
 {
-        "bebida":"Mai Tai",
+        "bebida":"Negroni and the Goat",
         "temporada": "Recomendados",
-        "receta":"1 oz light rum (3 cl) \n 1 oz dark rum (3 cl) \n 1½ oz fresh lime juice (4.5 cl) \n ½ oz orange curacao (1.5 cl) \n ¼ oz grenadine (6 dashes) \n ½ oz orgeat syrup (1.5 cl) \n ¼ oz falernum (6 dashes) \n Fill with crushed ice \n Add fruit garnish \n Serve in a double rocks glass (12.0 oz)",
-        "img":"maitai.png"
+        "receta":"Stir in mixing glass with ice and strain \n 1½ oz gin (4.5 cl) \n ⅔ oz Aperol (2 cl) \n ⅔ oz sweet vermouth (2 cl) \n ½ oz Averna (1.5 cl) \n Garnish with orange twist \n Serve in a rocks glass (6.0 oz)",
+        "img":"negronigoat.png"
 }
 
 ###
